@@ -63,5 +63,5 @@ I'm a full stack web developer and student of Computer Science. I current work w
 <br/>  
 <br/>
 <div align="center">
-  <small>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></small>
+  <small>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>.</small>
 </div>

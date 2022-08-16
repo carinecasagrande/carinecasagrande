@@ -49,7 +49,7 @@ I'm a full stack web developer and student of Computer Science. I current work w
 </div>  
 
 ## Github Stats  
-<table>
+<table style="overflow: hidden;">
   <tr>
     <td valign="top" width="45%">
       <img src="https://github-readme-stats.vercel.app/api?username=carinecasagrande&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -61,11 +61,7 @@ I'm a full stack web developer and student of Computer Science. I current work w
 </table>  
 
 <br/>  
-<br/>  
-<br/>  
-<br />
-
-----
+<br/>
 <div align="center">
-  Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+  <small>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></small>
 </div>

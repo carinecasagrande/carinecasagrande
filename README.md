@@ -10,7 +10,7 @@
 
 <!-- Description -->
 I'm a full stack web developer and student of Computer Science. I current work with HTML, CSS, JavaScript and PHP, but always looking to learn new technologies.  
-- 🔭 I’m currently working on a [Node.js project].(https://github.com/carinecasagrande/budget)  
+- 🔭 I’m currently working on a [Node.js project](https://github.com/carinecasagrande/budget).
 - 🌱 I’m currently learning React Native and Flutter.
 
 ## Languages and Tools  
